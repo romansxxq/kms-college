@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project source="5.0.0" version="1.0">
+  This file is intended to be loaded by Logisim-evolution v5.0.0(https://github.com/logisim-evolution/).
+
+  <lib desc="#Wiring" name="0">
+    <tool name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="type" val="output"/>
+    </tool>
+  </lib>
+  <lib desc="#Gates" name="1"/>
+  <lib desc="#Plexers" name="2"/>
+  <lib desc="#Arithmetic" name="3"/>
+  <lib desc="#FPArithmetic" name="4"/>
+  <lib desc="#Memory" name="5"/>
+  <lib desc="#I/O" name="6"/>
+  <lib desc="#TTL" name="7"/>
+  <lib desc="#TCL" name="8"/>
+  <lib desc="#Base" name="9"/>
+  <lib desc="#BFH-Praktika" name="10"/>
+  <lib desc="#Input/Output-Extra" name="11"/>
+  <lib desc="#Soc" name="12"/>
+  <main name="main"/>
+  <options>
+    <a name="gateUndefined" val="ignore"/>
+    <a name="simlimit" val="1000"/>
+    <a name="simrand" val="0"/>
+  </options>
+  <mappings>
+    <tool map="Button2" name="Poke Tool"/>
+    <tool map="Button3" name="Menu Tool"/>
+    <tool map="Ctrl Button1" name="Menu Tool"/>
+  </mappings>
+  <toolbar>
+    <tool name="Poke Tool"/>
+    <tool name="Edit Tool"/>
+    <tool name="Wiring Tool"/>
+    <tool name="Text Tool"/>
+    <tool name="Image"/>
+    <sep/>
+    <tool name="Pin"/>
+    <tool name="Pin">
+      <a name="facing" val="west"/>
+      <a name="type" val="output"/>
+    </tool>
+    <sep/>
+    <tool name="NOT Gate"/>
+    <tool name="AND Gate"/>
+    <tool name="OR Gate"/>
+    <tool name="XOR Gate"/>
+    <tool name="NAND Gate"/>
+    <tool name="NOR Gate"/>
+    <sep/>
+    <tool name="D Flip-Flop"/>
+    <tool name="Register"/>
+  </toolbar>
+  <circuit name="main">
+    <a name="appearance" val="logisim_evolution"/>
+    <a name="circuit" val="main"/>
+    <a name="circuitnamedboxfixedsize" val="true"/>
+    <a name="simulationFrequency" val="1.0"/>
+    <comp lib="0" loc="(130,120)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="label" val="A"/>
+    </comp>
+    <comp lib="0" loc="(130,170)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="label" val="B"/>
+    </comp>
+    <comp lib="0" loc="(360,270)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="label" val="Carry"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="0" loc="(390,190)" name="Pin">
+      <a name="appearance" val="classic"/>
+      <a name="label" val="Sum"/>
+      <a name="type" val="output"/>
+    </comp>
+    <comp lib="1" loc="(290,230)" name="AND Gate"/>
+    <comp lib="1" loc="(300,150)" name="XOR Gate"/>
+    <wire from="(130,120)" to="(170,120)"/>
+    <wire from="(130,170)" to="(160,170)"/>
+    <wire from="(160,170)" to="(160,250)"/>
+    <wire from="(160,170)" to="(240,170)"/>
+    <wire from="(160,250)" to="(240,250)"/>
+    <wire from="(170,120)" to="(170,210)"/>
+    <wire from="(170,120)" to="(240,120)"/>
+    <wire from="(170,210)" to="(240,210)"/>
+    <wire from="(240,120)" to="(240,130)"/>
+    <wire from="(290,230)" to="(360,230)"/>
+    <wire from="(300,150)" to="(400,150)"/>
+    <wire from="(360,230)" to="(360,270)"/>
+    <wire from="(390,190)" to="(400,190)"/>
+    <wire from="(400,150)" to="(400,190)"/>
+  </circuit>
+</project>
