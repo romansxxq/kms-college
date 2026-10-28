@@ -1,0 +1,11 @@
+{
+  "url": "https://web.telegram.org/k/",
+  "observedAt": "2026-10-28T02:54:14.551Z",
+  "subject": "CN=*.web.telegram.org",
+  "issuer": "C=US\nO=GoDaddy.com\nCN=GoDaddy TLS Intermediate CA DV - R1v1",
+  "subjectAltName": "DNS:*.web.telegram.org, DNS:web.telegram.org",
+  "validFrom": "Sep 12 15:53:10 2026 GMT",
+  "validTo": "Mar 29 15:53:10 2027 GMT",
+  "fingerprint256": "40:EA:23:EE:DA:65:B0:08:C8:54:F0:73:60:C2:EE:C5:A2:83:F8:4C:E2:9C:0A:B3:8B:B1:42:53:1D:EC:75:02",
+  "tlsVersion": "TLS 1.3"
+}

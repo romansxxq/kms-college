@@ -1,0 +1,2842 @@
+{
+  "observedOn": "2026-10-28",
+  "timezone": "Europe/Kyiv",
+  "method": "Chrome Network panel; around 15 seconds; resource count is the Network requests counter including unfinished requests; connection count refers only to the main host.",
+  "sites": [
+    {
+      "name": "mastodon",
+      "url": "https://mastodon.social/explore",
+      "observedAt": "2026-10-28T02:48:37.275Z",
+      "totalRequests": 208,
+      "mainHost": "mastodon.social",
+      "mainProtocol": "h3",
+      "mainHostConnections": [
+        "1162",
+        "2412"
+      ],
+      "requests": [
+        {
+          "url": "https://mastodon.social/",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.401042,
+          "endTime": 39874.614276,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/themes/default-C5RowXAX.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.612104,
+          "endTime": 39874.684549,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/polyfills-CPvHlx-o.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.612282,
+          "endTime": 39874.727383,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/inert-1no54Nn4.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.612364,
+          "endTime": 39874.685448,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/common-BYE1a1RU.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.974664,
+          "endTime": 39875.089254,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/rolldown-runtime-C0FnF6B9.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.00415,
+          "endTime": 39875.118642,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/dist-CbfhLTox.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.005219,
+          "endTime": 39875.097094,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/punycode-DpdQ0SRX.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.089955,
+          "endTime": 39875.204316,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/links-KqthXtXS.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.097919,
+          "endTime": 39875.193497,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/intl/ru-k4mQCa7n.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.119378,
+          "endTime": 39875.189074,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/css/custom-e3b0c442.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.685155,
+          "endTime": 39874.719988,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/application-CzYNP5gB.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.190211,
+          "endTime": 39875.25863,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/jsx-runtime-B2aZqt4F.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.194133,
+          "endTime": 39875.30772,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/react-intl-CamWKBg2.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.204999,
+          "endTime": 39875.317425,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/preload-helper-CGqObZcL.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.259945,
+          "endTime": 39875.379314,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/ready-B3bZnx13.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.308619,
+          "endTime": 39875.444087,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/initial_state-DQE206G9.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.318146,
+          "endTime": 39875.38411,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/locales-Bvdagb-m.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.380582,
+          "endTime": 39875.490995,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/isSymbol-ChbHbgAi.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.38495,
+          "endTime": 39875.50204,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/esm-DrOrXu-Y.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.444742,
+          "endTime": 39875.559714,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/react-router-CYFGGiDl.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.491989,
+          "endTime": 39875.560444,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/router-DUtfglWC.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.502885,
+          "endTime": 39875.614078,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/debounce-IMwhj0Mf.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.560661,
+          "endTime": 39875.672859,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/axios-D4vskrQd.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.561597,
+          "endTime": 39875.630324,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/axios-Blsu9zSB.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.615919,
+          "endTime": 39875.682914,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/defineProperty-DBJHyz8d.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.631161,
+          "endTime": 39875.746749,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/redux-toolkit.modern-DrNzjHzG.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.673674,
+          "endTime": 39875.787534,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/typed_functions-C8uDhhLG.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.68364,
+          "endTime": 39875.777036,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/immutable.es-vrUY5RNy.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.74729,
+          "endTime": 39875.815528,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/locale-D-1rLaCQ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.778193,
+          "endTime": 39875.847298,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/intl-localematcher-BVRDD4CN.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.788383,
+          "endTime": 39875.904555,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/utils-DL74ZYTF.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.816501,
+          "endTime": 39875.884139,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/emoji-ChyRZrxZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.848026,
+          "endTime": 39875.915644,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/accounts_typed-CICOrJRA.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.884964,
+          "endTime": 39875.956599,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/settings-Cq4pjZIN.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.906049,
+          "endTime": 39875.999944,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/render-DJ0vzs20.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.916456,
+          "endTime": 39875.989511,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/numbers-BEp7e788.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.957638,
+          "endTime": 39876.027665,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/short_number-DWxvaECK.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39875.99205,
+          "endTime": 39876.060187,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/useMergedRefs-CIuDaEA7.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.000547,
+          "endTime": 39876.067159,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/classnames-CfLRLWYq.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.028307,
+          "endTime": 39876.093855,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/polymorphic-C8RgSnB4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.060929,
+          "endTime": 39876.128068,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/icon-Cx7PjKUc.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.067667,
+          "endTime": 39876.135311,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/toggle_field-Bmp5QOHF.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.09455,
+          "endTime": 39876.161047,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/circular_progress-Yi2P8-23.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.128799,
+          "endTime": 39876.242513,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/skeleton-CMo3zytX.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.135869,
+          "endTime": 39876.209401,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/poll-97xrQ9qp.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.161878,
+          "endTime": 39876.278054,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/helmet-Df58RQH4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.210155,
+          "endTime": 39876.278946,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/streaming-CtGXJz-T.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.243262,
+          "endTime": 39876.35748,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/useObserver-B6QzY0lE.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.279985,
+          "endTime": 39876.350202,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/index.module-DDAmwq2I.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.280782,
+          "endTime": 39876.347259,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/column_header-B_ezrO8f.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.347969,
+          "endTime": 39876.418847,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/onboarding-ByJ3TSXV.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.35083,
+          "endTime": 39876.41825,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/alert-DbMxADQi.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.358276,
+          "endTime": 39876.431582,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/toString-Cts3J3Te.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.419072,
+          "endTime": 39876.485815,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/intl-BmayJdxM.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.419709,
+          "endTime": 39876.485967,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/content-nU_KSOfo.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.432286,
+          "endTime": 39876.507499,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/ChatCircleDots.es-BGFs_vMS.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.486647,
+          "endTime": 39876.563401,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/objects-BAgCXwpg.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.486799,
+          "endTime": 39876.553257,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/dropdown_selector-Chr6UHgV.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.508678,
+          "endTime": 39876.580099,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/privacy_dropdown-6OR1tf55.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.55396,
+          "endTime": 39876.621406,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/visibility-CfdWPJmB.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.564054,
+          "endTime": 39876.634004,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/quote-DO_3gysE.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.580852,
+          "endTime": 39876.649347,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/fullscreen-C9DTf02V.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.622207,
+          "endTime": 39876.691467,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/video-YPBmadCs.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.634934,
+          "endTime": 39876.705214,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/visualizer-CUVScW-9.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.650379,
+          "endTime": 39876.720776,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/audio-DrFPb7zf.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.692267,
+          "endTime": 39876.762802,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/use-gesture-react.esm-DVopn8Az.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.706313,
+          "endTime": 39876.774475,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/chevron_left-EZQ-uSvi.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.721542,
+          "endTime": 39876.788874,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/media_modal-BhrD6HOt.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.763853,
+          "endTime": 39876.835361,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/gif-B8KuWDaV.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.775281,
+          "endTime": 39876.846942,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/use-isomorphic-layout-effect.browser.esm-DX9In5JZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.789527,
+          "endTime": 39876.856416,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/react-textarea-autosize.browser.esm-D-q5kGwZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.836059,
+          "endTime": 39876.903266,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/useSelectableClick-Bgu1gWCZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.847596,
+          "endTime": 39876.914604,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/X.es-BvJ9lCoA.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.856915,
+          "endTime": 39876.924055,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/redesign-CIvaxUil.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.904094,
+          "endTime": 39877.012493,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/confirmation_modal-B5ntLGX4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.915259,
+          "endTime": 39876.981545,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/unfold_more-C2NxgX43.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.924669,
+          "endTime": 39876.99178,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/done-DXcWbSVM.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.982345,
+          "endTime": 39877.052906,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/check_box-BdoJMNOT.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39876.99244,
+          "endTime": 39877.067016,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/modal_container-BQQwPLPq.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.013271,
+          "endTime": 39877.105691,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/use_fetch_familiar_followers-CHgfHNmL.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.053585,
+          "endTime": 39877.121401,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/Gear.es-D7rWrPXv.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.067501,
+          "endTime": 39877.138077,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/MagnifyingGlass.es-D4EJA055.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.106588,
+          "endTime": 39877.177971,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/Plus.es-CHJqbaZ_.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.122118,
+          "endTime": 39877.188288,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/Translate.es-By_mV4Ej.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.138859,
+          "endTime": 39877.206612,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/redesign-D1p7NlQv.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.178909,
+          "endTime": 39877.247762,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/content_copy-hLadeUbf.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.188909,
+          "endTime": 39877.25856,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/copy_button-C16WK8Qu.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.207333,
+          "endTime": 39877.27896,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/emoji_picker_dropdown_container-CQKTmoSC.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.248606,
+          "endTime": 39877.315674,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/form_fields-CxrNnQ8f.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.25924,
+          "endTime": 39877.367823,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/redesign-1AVr3Z9D.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.279723,
+          "endTime": 39877.352115,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/CirclesFour.es-1Lau0M-Q.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.316569,
+          "endTime": 39877.38342,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/load_gap-BB-Eb-E8.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.352956,
+          "endTime": 39877.46701,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/notifications-KwhUvgVS.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.368765,
+          "endTime": 39877.477443,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/lists-DUqS4Clz.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.384144,
+          "endTime": 39877.454777,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/block-C5SFiifZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.455451,
+          "endTime": 39877.52267,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/group-CQuVceay.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.467726,
+          "endTime": 39877.534707,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/volume_off-BLwOOT0l.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.478077,
+          "endTime": 39877.550961,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/badge-CWu3dzW4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.523338,
+          "endTime": 39877.591491,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/redesign-CuTS45Es.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.535361,
+          "endTime": 39877.602753,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/follow_button-BEt6ELjH.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.551647,
+          "endTime": 39877.620878,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/search-UwWlLZ0I.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.592394,
+          "endTime": 39877.660636,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/account_bio-vyVLeFbw.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.603462,
+          "endTime": 39877.669749,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/avatar_group-B-ORi8-v.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.621733,
+          "endTime": 39877.6884,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/counters-T3jJlwmd.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.661559,
+          "endTime": 39877.72869,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/useTimeout-BKBbIw7C.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.67029,
+          "endTime": 39877.736296,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/empty_state-DStw7PiB.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.689089,
+          "endTime": 39877.757814,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/bundle_column_error-BkQeOvFM.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.72934,
+          "endTime": 39877.801084,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/add-CRf_P6XG.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.736849,
+          "endTime": 39877.828873,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/home-fill-mQON87dk.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.758631,
+          "endTime": 39877.832587,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/icon_with_badge-WbHwSoii.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.801892,
+          "endTime": 39877.868909,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/navigation_bar-Cblknu7w.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.829529,
+          "endTime": 39877.899631,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/elephant_ui_plane-BKKBlDqk.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.833119,
+          "endTime": 39877.902146,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/columns_context-D_z98u9Q.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.869592,
+          "endTime": 39877.940699,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/alt_text_badge-DIuNZANo.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.900439,
+          "endTime": 39877.96778,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/server_hero_image-rjcPMUxg.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.902601,
+          "endTime": 39877.969846,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/tab_list-DTKRVTCZ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.941363,
+          "endTime": 39878.007145,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/account-Doqj6CZV.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.968524,
+          "endTime": 39878.035515,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/callout-BX46nZN3.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39877.970303,
+          "endTime": 39878.038226,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/quoted-gz8UX8_a.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.007793,
+          "endTime": 39878.078262,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/scroll_container-UgKXb9Ge.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.036454,
+          "endTime": 39878.106077,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/icon_pinned-B-DCbq4G.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.038759,
+          "endTime": 39878.107019,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/status-CtCyi6q4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.078981,
+          "endTime": 39878.144301,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/schedule_idle_task-BaJPtWS1.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.107159,
+          "endTime": 39878.174712,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/components-brp0KmsJ.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.107765,
+          "endTime": 39878.178904,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/load_more-BOduPoC5.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.144995,
+          "endTime": 39878.21249,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/scrollable_list-CrTIvYmK.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.175409,
+          "endTime": 39878.246309,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/status_list-DlEFnpRw.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.179638,
+          "endTime": 39878.247122,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/status_list_container-moH14Kja.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.213236,
+          "endTime": 39878.279285,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/toggle_field-BAQID-r7.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.688575,
+          "endTime": 39874.723352,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/poll-BIvRp94m.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.720543,
+          "endTime": 39874.755516,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/column_header-BAla9tq2.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.723821,
+          "endTime": 39874.758823,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/content-D8gv5Ji-.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.729554,
+          "endTime": 39874.764306,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/visibility-CygpNoqM.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.756096,
+          "endTime": 39874.790947,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/quote-Cruo3omI.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.759411,
+          "endTime": 39874.794098,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/redesign-BPPPaR39.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.764773,
+          "endTime": 39874.799456,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/modal_container-D9DmZV7w.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.791516,
+          "endTime": 39874.82643,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/redesign-BRBiA3QF.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.794551,
+          "endTime": 39874.829096,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/form_fields-F2dVwzn3.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.799942,
+          "endTime": 39874.834642,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/redesign-Cbi5ic3V.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.827034,
+          "endTime": 39874.861964,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/badge-C03pmieC.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.829508,
+          "endTime": 39874.864233,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/redesign-CsCyLc8N.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.83507,
+          "endTime": 39874.869568,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/search-DM6dEff3.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.862538,
+          "endTime": 39874.8973,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/account_bio-BXbJDMW2.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.864614,
+          "endTime": 39874.899158,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/empty_state-D4d51_wr.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.870002,
+          "endTime": 39874.90443,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/bundle_column_error-gGmt9TDO.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.897836,
+          "endTime": 39874.93268,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/alt_text_badge-OfXa7nmv.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.89954,
+          "endTime": 39874.934175,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/server_hero_image-B4ZnzyEW.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.904803,
+          "endTime": 39874.939335,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/tab_list-e25X12WM.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.933278,
+          "endTime": 39874.968096,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/callout-IFgvMNaK.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.934562,
+          "endTime": 39874.969281,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/components-CgErjQpk.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.939802,
+          "endTime": 39874.974254,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/status_list-ou7MIDMq.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.968658,
+          "endTime": 39875.003597,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/application-CtH-OrwB.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39874.969744,
+          "endTime": 39875.00482,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/manifest",
+          "protocol": "h3",
+          "connectionId": "2412",
+          "startTime": 39878.21335,
+          "endTime": 39878.282278,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/inter-regular-COLGFB3M.woff2",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.320633,
+          "endTime": 39878.365578,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/modulepreload-polyfill-P2Xu9kJm.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.336779,
+          "endTime": 39878.424039,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/android-chrome-144x144-D-ewI-KZ.png",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.3929,
+          "endTime": 39878.461059,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/worker-U0CcISHn.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.428265,
+          "endTime": 39878.464191,
+          "status": 200
+        },
+        {
+          "url": "blob:https://mastodon.social/b1f8bdbd-9b5d-4fe1-b43e-af6c20c4a5bc",
+          "protocol": "",
+          "connectionId": "0",
+          "startTime": 39878.466823,
+          "endTime": 39878.588825,
+          "status": 0
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/CalSansUI_wght_GEOM_-DYqrh1Po.woff2",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.492861,
+          "endTime": 39878.533863,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/inter-medium-CDhBSFyE.woff2",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.492996,
+          "endTime": 39878.543728,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/api/v2/instance",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.508894,
+          "endTime": 39878.545108,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/explore-D0mjR-R2.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.52048,
+          "endTime": 39878.555493,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/hashtag-DvGbL9DN.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.544168,
+          "endTime": 39878.580148,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/build-CvCldtfn.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.574008,
+          "endTime": 39878.609367,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/dismissable_banner-B6qtGEKH.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.575226,
+          "endTime": 39878.610949,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/000/013/179/original/b4ceb19c9c54ec7e.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39878.581105,
+          "endTime": 39878.653956,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/api/v1/custom_emojis",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.624597,
+          "endTime": 39878.660529,
+          "status": 304
+        },
+        {
+          "url": "https://mastodon.social/api/v1/trends/statuses",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.624714,
+          "endTime": 39878.962708,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/status-CpXBmRV4.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.9876,
+          "endTime": 39879.023238,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/formatted_date-CNUY377z.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.988108,
+          "endTime": 39879.024035,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/inline_account-Bpr1SIqg.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39878.988224,
+          "endTime": 39879.023801,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/useAccountId-Bjx_qUGg.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39879.024683,
+          "endTime": 39879.059515,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/assets/status-CsE6C0_d.css",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39879.02424,
+          "endTime": 39879.059131,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/112/524/543/261/416/942/original/f3db5c7c76114133.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.072246,
+          "endTime": 39879.103001,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/114/894/160/834/064/329/original/eab090b08537ae63.jpeg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.102374,
+          "endTime": 39879.132988,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/108/194/428/751/240/116/original/f1eb397ab1659575.jpeg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.107813,
+          "endTime": 39879.138666,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/109/247/255/215/674/808/original/8de6da34bebd534f.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.108147,
+          "endTime": 39879.14066,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/109/315/511/394/348/765/original/8985fd0558649713.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.143579,
+          "endTime": 39879.174361,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/117/513/930/841/868/281/small/4c8f7a962606c98a.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.143848,
+          "endTime": 39879.195747,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/packs/media_gallery-BcTKXXNY.js",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39879.137555,
+          "endTime": 39879.172691,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/109/254/154/653/602/960/original/d9ef8776f8e4e9dd.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.173792,
+          "endTime": 39879.216474,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/109/355/700/962/815/786/original/7d278db7224de27d.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.179695,
+          "endTime": 39879.21988,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/preview_cards/images/212/495/760/original/e43d7833795862eb.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.197054,
+          "endTime": 39879.230454,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/109/246/757/955/923/998/original/1df93311f36888fa.jpeg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.217206,
+          "endTime": 39879.250304,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/preview_cards/images/212/491/893/original/2d3f27ccb249488c.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.221842,
+          "endTime": 39879.255121,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/117/051/282/408/060/750/original/14d35098e4034b17.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.230792,
+          "endTime": 39879.291252,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/preview_cards/images/212/410/109/original/548c02c2229a0c91.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.250812,
+          "endTime": 39879.294004,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/109/271/947/718/754/379/original/215023fd481224a3.jpeg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.255421,
+          "endTime": 39879.296801,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/preview_cards/images/082/857/872/original/7bb1e42c666b7c2b.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.291798,
+          "endTime": 39879.411803,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/109/251/686/313/383/290/original/b3ad244c3d89d891.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.294314,
+          "endTime": 39879.3538,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/110/752/047/556/790/864/original/3b7cf7ce665a2a21.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.297091,
+          "endTime": 39879.403183,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/115/212/975/356/663/743/original/2e9c4df0c8fa0029.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.354146,
+          "endTime": 39879.384397,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/000/035/156/original/edc5ed144e346235.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.38482,
+          "endTime": 39879.477099,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/000/011/307/original/dana-andi-portrait-square.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.403623,
+          "endTime": 39879.449327,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/110/641/555/278/107/926/original/60e39d3280d3b645.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.412238,
+          "endTime": 39879.452897,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/109/508/767/343/391/767/original/b06e3d0a24922ca4.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.45022,
+          "endTime": 39879.485637,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/109/243/256/426/809/890/original/c7c3f1726dae92b6.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.453319,
+          "endTime": 39879.504033,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/109/246/078/948/794/953/static/13e2ecd309465b55.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.477571,
+          "endTime": 39879.508904,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/accounts/avatars/112/408/801/822/017/264/original/a680c99795419aa9.jpg",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.486055,
+          "endTime": 39879.516765,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/accounts/avatars/116/401/690/245/069/787/static/390651ed77c3ecef.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.504653,
+          "endTime": 39879.557825,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/117/514/488/663/297/981/original/6d32364a275bceb9.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.509373,
+          "endTime": 39879.810841,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/117/514/919/174/943/345/original/a1e4ce6643d18890.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.51723,
+          "endTime": 39879.723053,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/117/515/358/507/474/936/original/e88ba2b671f4d274.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.55833,
+          "endTime": 39879.888217,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/media_attachments/files/117/515/154/058/184/454/original/d43cf91cedf28920.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39879.723625,
+          "endTime": 39879.801723,
+          "status": 200
+        },
+        {
+          "url": "https://files.mastodon.social/cache/media_attachments/files/117/515/315/561/989/973/small/b1954e1fb3ce8dc3.png",
+          "protocol": "h3",
+          "connectionId": "2750",
+          "startTime": 39880.012134,
+          "endTime": 39880.083474,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/api/v1/accounts/113550366549607147",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39880.055609,
+          "endTime": 39880.098371,
+          "status": 200
+        },
+        {
+          "url": "https://mastodon.social/api/v1/accounts/109587476429094354",
+          "protocol": "h3",
+          "connectionId": "1162",
+          "startTime": 39880.079794,
+          "endTime": 39880.122424,
+          "status": 200
+        }
+      ]
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/",
+      "observedAt": "2026-10-28T02:48:55.143Z",
+      "totalRequests": 143,
+      "mainHost": "github.com",
+      "mainProtocol": "h2",
+      "mainHostConnections": [
+        "4541"
+      ],
+      "requests": [
+        {
+          "url": "https://github.com/",
+          "protocol": "h2",
+          "connectionId": "4541",
+          "startTime": 39892.342957,
+          "endTime": 39892.56157,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-fa5e2e82e6e0ecc0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.491966,
+          "endTime": 39892.554383,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-compiler-runtime-4610bd6d3de9c049.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.492061,
+          "endTime": 39892.554865,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/scheduler-58b860b049ca307c.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.492134,
+          "endTime": 39892.55468,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-dom-c7f52540bb6b77ed.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.749841,
+          "endTime": 39892.781334,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-dom-client-35b308126995de85.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.755686,
+          "endTime": 39892.79218,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-is-e0b593954b4706d8.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.76289,
+          "endTime": 39892.794395,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-jsx-runtime-4915cb0f5b3aff04.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.793713,
+          "endTime": 39892.825037,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-reconciler-8e99e505c4429605.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.795332,
+          "endTime": 39892.82955,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/global-banner-disable-750ad87f36b8e45f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.813631,
+          "endTime": 39892.845056,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/MonaSansVF-wdth-wght-opsz-7a868ff47c93bd97.woff2",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.830761,
+          "endTime": 39892.880906,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/light-3a3d2c708970e4e8.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.55609,
+          "endTime": 39892.587919,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/light_high_contrast-9c7b506bdc5ea73f.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.556291,
+          "endTime": 39892.589675,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/dark-c9dacb4ec19616db.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.556449,
+          "endTime": 39892.591711,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/dark_high_contrast-5ef38214a3eabc7d.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.588768,
+          "endTime": 39892.620066,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/primer-primitives-02e066689466a8cd.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.590043,
+          "endTime": 39892.621271,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/primer-38ae573fa780d76a.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.592015,
+          "endTime": 39892.650932,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/global-b577b4b65d1381c3.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.620465,
+          "endTime": 39892.656853,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/github-11ab453cdcc1b7c1.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.621684,
+          "endTime": 39892.659293,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-4224c29902ac973c.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.651426,
+          "endTime": 39892.683019,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/home-6e1ba190d2b41fdf.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.657328,
+          "endTime": 39892.688905,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/high-contrast-cookie-141c17800ca6ba23.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.846187,
+          "endTime": 39892.882618,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/wp-runtime-ce67b08bab407bb3.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.85832,
+          "endTime": 39892.897216,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/app-foundation-799625033ee8341e.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.898369,
+          "endTime": 39892.929609,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/app-runtime-63a0d3584139a143.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.915895,
+          "endTime": 39892.950067,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/fetch-utilities-27ed50f7568a5f72.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.922118,
+          "endTime": 39892.953125,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ser-2defe2918d9c9884.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.930376,
+          "endTime": 39892.967368,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/environment-7471f9d6df5967f0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.950677,
+          "endTime": 39892.981887,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/app-runtime.ad1a9f919a7a4706.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.660125,
+          "endTime": 39892.690852,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/catalyst-5bc36fa5a846f5a0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.953537,
+          "endTime": 39892.984454,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/selector-observer-7ae05416e4a383ae.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.967931,
+          "endTime": 39892.999071,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/relative-time-element-a7b7e0f1360ca8f9.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.982676,
+          "endTime": 39893.014105,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/by4-04f0d28829dc4df0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.989596,
+          "endTime": 39893.02154,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ja9-b94de714266ba389.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.999863,
+          "endTime": 39893.031036,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/3h2-5f8899065b81d778.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.01494,
+          "endTime": 39893.046821,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/t2-19741658de225445.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.022588,
+          "endTime": 39893.05414,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/z8j-d8f6fa7339115370.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.031891,
+          "endTime": 39893.063156,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/hjg-55b6d77c48226433.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.048988,
+          "endTime": 39893.081152,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/wc-9718c61e184d7417.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.055282,
+          "endTime": 39893.088571,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/github-elements-51658d35e070f85b.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.064238,
+          "endTime": 39893.0955,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/element-registry-506a3c95ae771635.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.082073,
+          "endTime": 39893.114408,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/runtime-helpers-26f2970b9e869a17.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.089671,
+          "endTime": 39893.120791,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/aria-live-edd851c704c6b3ca.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.096544,
+          "endTime": 39893.127654,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/hotkey-a82e6cb07443fd1c.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.115994,
+          "endTime": 39893.147149,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-core-c7332e94c0bffcae.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.121428,
+          "endTime": 39893.160198,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/cc-99eedace671eb2b6.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.128273,
+          "endTime": 39893.161709,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/urv-453c749eec9d7d37.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.147888,
+          "endTime": 39893.181511,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/4t6-8cce817ba1c78415.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.163591,
+          "endTime": 39893.199049,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/pb0-3a1794e99794195c.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.165343,
+          "endTime": 39893.200921,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/6n-e6e586acca87c769.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.184147,
+          "endTime": 39893.219,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/zj-8d62ed720b193a80.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.200179,
+          "endTime": 39893.234245,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/9k-61aac4114bea1502.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.203139,
+          "endTime": 39893.235394,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/0r-4a2b771052825f69.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.220546,
+          "endTime": 39893.253573,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ow-98d10140e8228c74.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.236502,
+          "endTime": 39893.269034,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/mv1-7b21be52cdd60fa5.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.23677,
+          "endTime": 39893.269234,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/eou-b91079b9ea7074de.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.254521,
+          "endTime": 39893.286657,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/eon-36af335a1906af16.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.270444,
+          "endTime": 39893.302108,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/yga-dd50cf95593467fe.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.270631,
+          "endTime": 39893.302565,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/behaviors-a439121d1a448e99.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.287544,
+          "endTime": 39893.324653,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/react-core.25ec5f5e1205d08d.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.683584,
+          "endTime": 39892.714699,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/moy-1e7d11c3f212cbe4.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.303362,
+          "endTime": 39893.33504,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-essentials-762c1512fe1f897d.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.303521,
+          "endTime": 39893.335382,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/primer-react-911369ee234690ef.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.325507,
+          "endTime": 39893.368211,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/nc-28ebfc8e58bca42f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.359811,
+          "endTime": 39893.391615,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/qmp-308230626a2aedb0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.360007,
+          "endTime": 39893.392105,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/t7l-423469c05c948a8b.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.374629,
+          "endTime": 39893.405819,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/4u-bf6e08201764cb0a.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.392794,
+          "endTime": 39893.425925,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/nsj-b68fcdbb199cc0f2.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.393066,
+          "endTime": 39893.428295,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/sa-9d3fd8dc50445dcd.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.406396,
+          "endTime": 39893.437966,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/a3k-0be241c44f898837.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.426914,
+          "endTime": 39893.460855,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/t1r-78f6e763b87e5392.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.42979,
+          "endTime": 39893.46409,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/tjn-fb416006b72cca43.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.438743,
+          "endTime": 39893.469982,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/h3j-9cb42e7fadf1869c.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.463359,
+          "endTime": 39893.499254,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/qz-3de0b6ee8ce979cd.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.465531,
+          "endTime": 39893.503826,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/97-0cac04fbfd3179b0.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.470665,
+          "endTime": 39893.506362,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/fz-cb55e83c29d0a351.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.501139,
+          "endTime": 39893.53314,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ov-190f1353a43af7cc.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.505533,
+          "endTime": 39893.537233,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/hlz-df62ad90a4c87452.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.508368,
+          "endTime": 39893.540509,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/d8-c4cb62f1d8945e61.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.534044,
+          "endTime": 39893.574474,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/03-4c0887d9049033a4.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.537999,
+          "endTime": 39893.575673,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/p0-195911319a32faa7.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.540967,
+          "endTime": 39893.577627,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/rx-f78383c87a34d6f8.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.577068,
+          "endTime": 39893.608171,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/yox-0485f4e4807d6378.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.577777,
+          "endTime": 39893.609988,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/g0-73129ffe165d9c38.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.578342,
+          "endTime": 39893.610443,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/g4-05e4d33e43f27775.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.609025,
+          "endTime": 39893.640604,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/zxp-70129cecfe5aba22.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.61101,
+          "endTime": 39893.642723,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/yg2-1ef73bfd680141dc.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.61129,
+          "endTime": 39893.643394,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/h4-5f55e06e297293d6.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.6415,
+          "endTime": 39893.675179,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/4n-238cbb1b0ace525d.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.644016,
+          "endTime": 39893.677151,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/d3-c94d6f288141aaba.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.644212,
+          "endTime": 39893.677428,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/l30-c6a165b3d93ae953.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.676019,
+          "endTime": 39893.708096,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ls-7aa5f1da17abe9e1.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.678394,
+          "endTime": 39893.713694,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/landing-pages-016ffb52746df72b.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.679023,
+          "endTime": 39893.796137,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/primer-react-css.5c285cfb9886ddbc.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.68924,
+          "endTime": 39892.723324,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/primer-react-brand-css.bf4feb030857a64b.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.691257,
+          "endTime": 39892.730195,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/landing-pages.54fa7db742a1927c.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.715303,
+          "endTime": 39892.749414,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/gw-4bf343b417f9ec19.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.748898,
+          "endTime": 39893.797461,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/9m-6b203be6a68b3fa3.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.755726,
+          "endTime": 39893.797771,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/keyboard-shortcuts-dialog-d314ef9869d2585b.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.798499,
+          "endTime": 39893.831051,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/keyboard-shortcuts-dialog.42e23dcd26e23c54.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.723834,
+          "endTime": 39892.755191,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/ff-aede63d7b993174f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.798658,
+          "endTime": 39893.830679,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-global-banner-110cd31a61ed9df9.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.80201,
+          "endTime": 39893.832675,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-global-banner.7d9156a82678487b.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.730706,
+          "endTime": 39892.762359,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/universe_26-logo-566849d4d513de6c.svg",
+          "protocol": "h3",
+          "connectionId": "4556",
+          "startTime": 39894.145088,
+          "endTime": 39894.181211,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/g6m-c6c2e85d4cbe6e0f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.14543,
+          "endTime": 39894.180933,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/app-install-banner-partial-72a30191f58a9c36.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.186015,
+          "endTime": 39894.217616,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/app-install-banner-partial.885e224de88af748.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.782164,
+          "endTime": 39892.813115,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/skl-90fea02d318d647f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.18744,
+          "endTime": 39894.218962,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/z7-54a4e2eade1aa26b.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.187656,
+          "endTime": 39894.220051,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/a6j-b220084b9f4f7387.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.302833,
+          "endTime": 39894.335647,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-header-f7559abd26f7f390.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.303881,
+          "endTime": 39894.336323,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/a6j.7ba30aa85251a62f.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.825737,
+          "endTime": 39892.85767,
+          "status": 200
+        },
+        {
+          "url": "https://github.com/manifest.json",
+          "protocol": "h2",
+          "connectionId": "4541",
+          "startTime": 39893.715379,
+          "endTime": 39893.75422,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/hiz-0c55010ddab90e83.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.304226,
+          "endTime": 39894.336505,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/e2h-961b8318c4566510.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.337875,
+          "endTime": 39894.370936,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-footer-1373d23c463f1378.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.338226,
+          "endTime": 39894.371335,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/marketing-footer.98d164356514d0de.module.css",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39892.88397,
+          "endTime": 39892.915254,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/4f-abe08566983cbaf9.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.708651,
+          "endTime": 39893.74429,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/chunk-sma-799de73fb8fd885f.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39893.715173,
+          "endTime": 39893.748037,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/MonaSansMonoVF-wght-da74d51ce1316829.woff2",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.144884,
+          "endTime": 39894.179746,
+          "status": 200
+        },
+        {
+          "url": "https://collector.github.com/github/collect",
+          "protocol": "h2",
+          "connectionId": "6176",
+          "startTime": 39894.299339,
+          "endTime": 39894.703812,
+          "status": 204
+        },
+        {
+          "url": "https://github.githubassets.com/assets/apple-touch-icon-144x144-b882e354c005.png",
+          "protocol": "h3",
+          "connectionId": "4556",
+          "startTime": 39894.337663,
+          "endTime": 39894.371468,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/cat-53c4522f687c1719.glb",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.360465,
+          "endTime": 39894.421892,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/duck-b3412913788eaa25.glb",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.361268,
+          "endTime": 39894.469604,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/copilot-2addefe0e666acf2.glb",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.362291,
+          "endTime": 39894.488876,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/shield-99c76cd962f04df2.glb",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.362808,
+          "endTime": 39894.520569,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/chunk-vk-0261936433747322.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.39109,
+          "endTime": 39894.427363,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/chunk-yfq-4ae8c82f944b7353.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.392418,
+          "endTime": 39894.42792,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/chunk-bop-20e39a93b12cf1fa.js",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.39288,
+          "endTime": 39894.428629,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/mascot-7c495cf9822e0d5c.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.431031,
+          "endTime": 39894.539704,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/cat_eye-75fdf7af6c5dc157.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.431249,
+          "endTime": 39894.491527,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/star-9663b0f4de9d12b1.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.431496,
+          "endTime": 39894.539543,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/head_sss-29270cf59da664ea.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.492929,
+          "endTime": 39894.537682,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/eye_sss-8e43fcedfb9ddaf9.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.538762,
+          "endTime": 39894.571214,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/eye_color-bb27e609004c77cc.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.540819,
+          "endTime": 39894.573175,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/body_sss-ecb11ff73d84fd3b.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.541719,
+          "endTime": 39894.57929,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/head_sss-b7e053d8d541a414.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.571622,
+          "endTime": 39894.619283,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/shield_sss-b8d96cf3572b780d.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.57345,
+          "endTime": 39894.621232,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/shield_diffuse-41b84e036ea43614.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.579675,
+          "endTime": 39894.622172,
+          "status": 200
+        },
+        {
+          "url": "https://github.githubassets.com/assets/shield_blur-bd197c0b02963d75.jpg",
+          "protocol": "h3",
+          "connectionId": "4579",
+          "startTime": 39894.619813,
+          "endTime": 39894.653847,
+          "status": 200
+        },
+        {
+          "url": "https://api.github.com/_private/browser/stats",
+          "protocol": "h2",
+          "connectionId": "6401",
+          "startTime": 39894.465466,
+          "endTime": 39894.808056,
+          "status": 200
+        },
+        {
+          "url": "https://api.github.com/_private/browser/stats",
+          "protocol": "",
+          "connectionId": "0",
+          "startTime": 39894.465397,
+          "endTime": -1,
+          "status": 0
+        },
+        {
+          "url": "https://collector.github.com/github/collect",
+          "protocol": "h2",
+          "connectionId": "6176",
+          "startTime": 39900.075595,
+          "endTime": 39900.236987,
+          "status": 204
+        }
+      ]
+    }
+  ]
+}
